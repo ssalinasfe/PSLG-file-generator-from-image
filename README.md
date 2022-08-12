@@ -32,7 +32,7 @@ To visualize the triangulation you can use the program showme include in triangl
 showme bullita.poly
 ```
 
-![Poly example](https://github.com/ssalinasfe/PSLG-file-generator-from-image/blob/main/polyexample.png?raw=true)
+![Poly example](https://github.com/ssalinasfe/PSLG-file-generator-from-image/blob/main/triangulationexample.png?raw=true)
 
 
 
